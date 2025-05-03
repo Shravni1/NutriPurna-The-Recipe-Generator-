@@ -48,6 +48,8 @@ Search for health conditions and receive medically aligned food recommendations
 
 Learn what to eat and avoid for conditions like diabetes, PCOS, hypertension, etc.
 
+
+
 🧰 Tech Stack:
 
 
@@ -56,6 +58,8 @@ Backend :	Python, Flask
 Database : SQLITE
 AI/ML	 : Natural Language Processing (NLP), Rule-based recommendation engine
 APIs Used	Nutrition Analysis APIs, Food & Disease Datasets ,Google API
+
+
 
 
 🚀 Future Roadmap :
@@ -67,6 +71,8 @@ APIs Used	Nutrition Analysis APIs, Food & Disease Datasets ,Google API
 3.Integration with wearable fitness devices
 
 4.API for hospitals/dieticians
+
+
 
 
 🔗 Links :
