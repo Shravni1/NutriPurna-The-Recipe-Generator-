@@ -1,9 +1,9 @@
 # 🍲 NutriPurna – The Recipe Generator
 
 **NutriPurna** is an **AI-driven web application** nutrition tracking, recipe generation, disease-specific diets, and interactive meal planning features based on each user's health profile and preferences.
-
 NutriPurna is a comprehensive platform designed to simplify personalized nutrition and meal planning, addressing the challenges individuals face with meal preparation, ingredient selection, and dietary restrictions. With health and wellness becoming top priorities, NutriPurna aims to provide customized meal plans, real-time nutrient tracking, ingredient substitution suggestions, and disease-specific dietary recommendations. NutriPurna empowers users to make informed dietary choices, promoting healthier lifestyles while making healthy eating more accessible and manageable. By integrating advanced technology, NutriPurna has the potential to transform how individuals approach nutrition, ensuring they meet their health goals efficiently.
-----
+
+
 
 ## 🌟 Why NutriPurna?
 
@@ -14,6 +14,7 @@ In India, lifestyle-related diseases such as diabetes, hypertension, obesity, an
 🍛 Meals rooted in regional Indian food traditions.
 
 💬 Support for individuals with chronic conditions and daily health goals.
+
 ---
 
 
