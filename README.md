@@ -14,32 +14,52 @@ In India, lifestyle-related diseases such as diabetes, hypertension, obesity, an
 
 https://github.com/user-attachments/assets/02248214-8a39-4c2e-a115-89830a11c03f
 
-💡 Features
-🔍 Smart Recipe Generator: Generates personalized recipes based on user preferences and medical conditions using Indian cuisine.
+🧠 Key Features 
 
-🥗 Full-Day Meal Planner: Auto-generates 7-day balanced meal plans tailored to user goals and health needs.
+✅ Personalized Nutrition & Diet Planning :
 
-📊 Real-Time Nutrient Tracker: Tracks daily intake of macro and micronutrients.
+User onboarding includes health profile setup (age, weight, medical conditions, goals)
 
-📚 Disease-Based Dietary Suggestions: Includes an A–Z disease library that recommends foods to eat and avoid based on medical conditions.
+Auto-generates 7-day full-day meal plans based on user preferences, allergies, and restrictions
 
-🤖 Chatbot Integration: Assists users with diet-related queries and meal planning.
+Smart recommendations based on disease conditions and nutrition science
 
-🧮 Nutrition Insights Dashboard: Visual breakdown of calorie, protein, fat, and vitamin intake.
+🍽️ AI-Based Recipe Generation :
 
-🧘‍♂️ Healthy Habit Builder: Encourages sustainable dietary changes via smart suggestions and informative content.
+Generate recipes with step-by-step instructions
 
-🔬 Technical Stack
-Frontend: HTML, CSS, JavaScript
+Filter by meal type, calories, nutrients, and ingredients on hand
 
-Backend: Python (Flask) , API keys
+📊 Nutrient & Wellness Tracking :
 
-Database: SQLITE
+Track daily intake of calories, proteins, carbs, fats, etc.
 
-ML/AI: Content-Based Filtering, Caloric/Nutrient Calculators,Rule based
+Visual progress charts and health insights
+
+💬 Interactive Chatbot Assistant :
+
+Ask food or health-related queries
+
+Get instant diet suggestions, disease info, or tips using NLP-based conversation
+
+📚 A–Z Disease-Based Diet Library :
+
+Search for health conditions and receive medically aligned food recommendations
+
+Learn what to eat and avoid for conditions like diabetes, PCOS, hypertension, etc.
+
+🧰 Tech Stack:
 
 
-🚀 Future Roadmap
+Frontend :	HTML, CSS, JavaScript
+Backend :	Python, Flask 
+Database : SQLITE
+AI/ML	 : Natural Language Processing (NLP), Rule-based recommendation engine
+APIs Used	Nutrition Analysis APIs, Food & Disease Datasets ,Google API
+
+
+🚀 Future Roadmap :
+
 1.Mobile application development (Android & iOS)
 
 2.Voice assistant feature in Indian regional languages
@@ -48,8 +68,11 @@ ML/AI: Content-Based Filtering, Caloric/Nutrient Calculators,Rule based
 
 4.API for hospitals/dieticians
 
-🔗 Links
+
+🔗 Links :
+
   🔗 [Live Website – Coming Soon]
+  
   📜 [Research Paper – https://ijrti.org/viewpaperforall.php?paper=IJRTI2503114]
 
 
